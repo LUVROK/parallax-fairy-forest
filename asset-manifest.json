@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/parallax-fairy-forest/static/css/main.073c9b0a.css",
-    "main.js": "/parallax-fairy-forest/static/js/main.42c64412.js",
+    "main.css": "/parallax-fairy-forest/static/css/main.e69b5f1e.css",
+    "main.js": "/parallax-fairy-forest/static/js/main.e6ccf609.js",
     "static/js/787.2208aa40.chunk.js": "/parallax-fairy-forest/static/js/787.2208aa40.chunk.js",
-    "static/media/logo.svg": "/parallax-fairy-forest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/layer-base.png": "/parallax-fairy-forest/static/media/layer-base.2fa5e0698bd8c39d9367.png",
+    "static/media/layer-front.png": "/parallax-fairy-forest/static/media/layer-front.df0d9ca18937e07f91a5.png",
+    "static/media/layer-middle.png": "/parallax-fairy-forest/static/media/layer-middle.4e89d11a7015bd1a4216.png",
+    "static/media/ground.png": "/parallax-fairy-forest/static/media/ground.96eb037a7ddd346df210.png",
+    "static/media/dungeon.jpg": "/parallax-fairy-forest/static/media/dungeon.0148d095875521c130aa.jpg",
+    "static/media/raleway-regular.woff2": "/parallax-fairy-forest/static/media/raleway-regular.ac6d55fb99dbe0ca591e.woff2",
+    "static/media/raleway-black.woff2": "/parallax-fairy-forest/static/media/raleway-black.29ecbb2e11ee94003b30.woff2",
     "index.html": "/parallax-fairy-forest/index.html",
-    "main.073c9b0a.css.map": "/parallax-fairy-forest/static/css/main.073c9b0a.css.map",
-    "main.42c64412.js.map": "/parallax-fairy-forest/static/js/main.42c64412.js.map",
+    "main.e69b5f1e.css.map": "/parallax-fairy-forest/static/css/main.e69b5f1e.css.map",
+    "main.e6ccf609.js.map": "/parallax-fairy-forest/static/js/main.e6ccf609.js.map",
     "787.2208aa40.chunk.js.map": "/parallax-fairy-forest/static/js/787.2208aa40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.42c64412.js"
+    "static/css/main.e69b5f1e.css",
+    "static/js/main.e6ccf609.js"
   ]
 }
