@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parallax-fairy-forest/static/css/main.073c9b0a.css",
+    "main.js": "/parallax-fairy-forest/static/js/main.42c64412.js",
+    "static/js/787.2208aa40.chunk.js": "/parallax-fairy-forest/static/js/787.2208aa40.chunk.js",
+    "static/media/logo.svg": "/parallax-fairy-forest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/parallax-fairy-forest/index.html",
+    "main.073c9b0a.css.map": "/parallax-fairy-forest/static/css/main.073c9b0a.css.map",
+    "main.42c64412.js.map": "/parallax-fairy-forest/static/js/main.42c64412.js.map",
+    "787.2208aa40.chunk.js.map": "/parallax-fairy-forest/static/js/787.2208aa40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.42c64412.js"
+  ]
+}
