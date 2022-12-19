@@ -1,0 +1,24 @@
+$index: calc(1vw + 1vh);
+$text: #e7e7e0;
+$transition: all 0.75s cubic-bezier(0.075, 0.5, 0, 1);
+
+.connect-btn {
+  position: fixed;
+  top: 30px;
+  padding: calc(var(--index) * 0.546) calc(var(--index) * 2.046);
+  right: 30px;
+  font-size: calc(var(--index) / 1.9);
+  letter-spacing: calc(var(--index) / 4.25);
+  z-index: 9999;
+  color: #e7e7e0;
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(157, 130, 43, 0.5);
+  box-shadow: 0px 0px 15px #9d822b;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: $transition;
+}
+.connect-btn:hover {
+  box-shadow: 0px 0px 15px #f8cd41;
+}
