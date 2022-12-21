@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/parallax-fairy-forest/static/css/main.fdb9bdc1.css",
-    "main.js": "/parallax-fairy-forest/static/js/main.4f862032.js",
+    "main.css": "/parallax-fairy-forest/static/css/main.5545cdee.css",
+    "main.js": "/parallax-fairy-forest/static/js/main.48157e17.js",
     "static/js/787.2208aa40.chunk.js": "/parallax-fairy-forest/static/js/787.2208aa40.chunk.js",
     "static/media/layer-base.png": "/parallax-fairy-forest/static/media/layer-base.2fa5e0698bd8c39d9367.png",
     "static/media/layer-front.png": "/parallax-fairy-forest/static/media/layer-front.df0d9ca18937e07f91a5.png",
@@ -11,12 +11,12 @@
     "static/media/raleway-regular.woff2": "/parallax-fairy-forest/static/media/raleway-regular.ac6d55fb99dbe0ca591e.woff2",
     "static/media/raleway-black.woff2": "/parallax-fairy-forest/static/media/raleway-black.29ecbb2e11ee94003b30.woff2",
     "index.html": "/parallax-fairy-forest/index.html",
-    "main.fdb9bdc1.css.map": "/parallax-fairy-forest/static/css/main.fdb9bdc1.css.map",
-    "main.4f862032.js.map": "/parallax-fairy-forest/static/js/main.4f862032.js.map",
+    "main.5545cdee.css.map": "/parallax-fairy-forest/static/css/main.5545cdee.css.map",
+    "main.48157e17.js.map": "/parallax-fairy-forest/static/js/main.48157e17.js.map",
     "787.2208aa40.chunk.js.map": "/parallax-fairy-forest/static/js/787.2208aa40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdb9bdc1.css",
-    "static/js/main.4f862032.js"
+    "static/css/main.5545cdee.css",
+    "static/js/main.48157e17.js"
   ]
 }
